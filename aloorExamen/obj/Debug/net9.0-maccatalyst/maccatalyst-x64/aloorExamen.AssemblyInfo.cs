@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aloorExamen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1e854d1d51dc829dae7e50b8017c053750326c96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b67579bbb0b2185ff2125df0384009164938f29e")]
 [assembly: System.Reflection.AssemblyProductAttribute("aloorExamen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aloorExamen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
